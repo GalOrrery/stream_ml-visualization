@@ -5,4 +5,4 @@ from stream_mapper.visualization.background.exponential import (
 )
 from stream_mapper.visualization.background.sloped import sloped_distribution
 
-__all__ = ("sloped_distribution", "exponential_like_distribution")
+__all__ = ("exponential_like_distribution", "sloped_distribution")
